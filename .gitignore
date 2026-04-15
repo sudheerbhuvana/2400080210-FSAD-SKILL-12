@@ -1,0 +1,11 @@
+/.metadata/
+**/target/
+**/node_modules/
+**/*.jar
+**/*.class
+**/dist/
+**/target/
+**/node_modules/
+**/*.jar
+**/*.class
+**/dist/
