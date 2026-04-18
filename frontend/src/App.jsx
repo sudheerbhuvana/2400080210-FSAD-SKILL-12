@@ -6,7 +6,7 @@ import AddStudent from './components/AddStudent';
 import EditStudent from './components/EditStudent';
 import './index.css';
 
-const API_URL = 'http://localhost:8080/students';
+const API_URL = 'http://localhost:8083/students';
 
 function App() {
   const [students, setStudents] = useState([]);
